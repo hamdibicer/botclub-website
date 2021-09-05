@@ -1,2 +1,2 @@
 # botclub-website
-Botclub.net Kod Paylaşım Sunucusunun Güncel Sitesi
+Çok Yakında Geliyor Gelene Kadar botclub.net
