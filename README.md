@@ -1,2 +1,2 @@
 # botclub-website
-Çok Yakında Geliyor Gelene Kadar botclub.net
+Çok Yakında Geliyor Gelene Kadar https://botclub.net
