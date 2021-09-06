@@ -1,12 +1,10 @@
-# Discord Botclub Güncel Site (NOT: Sitenin ilk hali Theark'a ait)
+# Discord Botclub Güncel Site 
 
 
  - [Discord Bot Club Güncel Sitesi](https://github.com/hamdibicer/botclub-website)
       - [Kurulum](#kurulum)
       - [İçerikler](#İçerikler)
       - [İletişim](#İletişim)
-      - [FAQ](#faq)
-
 
 # Kurulum
 * İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) indir.
